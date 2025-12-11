@@ -26,7 +26,4 @@ Crear un análisis completo e interactivo del mercado financiero usando Python, 
 - GitHub (control de versiones)
 - Excel / CSV (almacenamiento de datos)
 
----
-
-## 📂 Estructura del Proyecto
 
