@@ -9,7 +9,7 @@ Este proyecto analiza el comportamiento del mercado financiero mediante la extra
 ---
 
 ## 🎯 Objetivo
-Crear un análisis completo e interactivo del mercado financiero usando Python, SQL y Power BI, demostrando habilidades en:
+Crear un análisis completo e interactivo del mercado financiero usando Python, demostrando habilidades en:
 
 - Extracción de datos financieros (APIs/datasets)
 - Procesamiento y transformación de datos
@@ -21,8 +21,6 @@ Crear un análisis completo e interactivo del mercado financiero usando Python, 
 
 ## 🛠️ Tecnologías utilizadas
 - Python (Pandas, NumPy, yFinance, Matplotlib)
-- SQL (consultas para manipulación y análisis)
-- Power BI (Dashboard interactivo)
 - GitHub (control de versiones)
 - Excel / CSV (almacenamiento de datos)
 
