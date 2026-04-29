@@ -1,5 +1,5 @@
 # 📊 market-financial-dashboard
-### Proyecto de análisis del mercado financiero utilizando Python, SQL y Power BI
+### Proyecto de análisis del mercado financiero utilizando Python.
 
 ---
 
